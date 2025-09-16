@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sepetim | Rusto</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <a href="index.html" class="brand-logo">Rusto</a>
+  <p class="textinHeader">Ihr Warenkorb</p>
+  <a href="cart.html"><i class="fa-solid fa-cart-shopping" id="cart"></i></a>
+</header>
+
+<main class="cart-container">
+  <h1><i class="fa-solid fa-bag-shopping"></i></h1>
+
+  <!-- Sepetteki ürünlerin listeleneceği alan -->
+  <div id="cart-items" class="cart-items">
+    <!-- cart.js ile ürünler buraya eklenecek -->
+  </div>
+
+  <!-- Sepet özet alanı -->
+  <div class="cart-summary">
+    <div class="summary-row">
+      <span>Zwischensumme:</span>
+      <span id="subtotal">0.00 Fr.</span>
+    </div>
+    <div class="summary-row total">
+      <span>Gesamtsumme:</span>
+      <span id="cart-total">0.00 €</span>
+    </div>
+    <button class="btn-checkout">Kaufen</button>
+    <button class="btn-clear-cart">Warenkorb leeren</button>
+    <a href="index.html" class="btn-continue">← Weiter einkaufen</a>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-content">
+    <p>&copy; 2025 Rusto.Alle Rechte vorbehalten.</p>
+    <div class="social-icons">
+      <a href="#"><i class="fab fa-facebook-f"></i></a>
+      <a href="#"><i class="fab fa-twitter"></i></a>
+      <a href="#"><i class="fab fa-instagram"></i></a>
+    </div>
+  </div>
+</footer>
+
+<script src="cart.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+[
+  { "id": 1, "name": "Herren T-Shirt", "category": "Herren", "price": 19.99, "image": "images/herren-tshirt.webp" },
+  { "id": 2, "name": "Herren Jeans", "category": "Herren", "price": 39.99, "image": "images/herren-jeans.jpg" },
+  { "id": 3, "name": "Herren Jacke", "category": "Herren", "price": 59.99, "image": "images/herren-jacke.webp" },
+  { "id": 4, "name": "Herren Schuhe", "category": "Herren", "price": 49.99, "image": "images/herren-schuhe.jpeg" },
+  { "id": 5, "name": "Herren Hemd", "category": "Herren", "price": 34.99, "image": "images/herren-hemd.jpg" },
+  { "id": 6, "name": "Herren Shorts", "category": "Herren", "price": 24.99, "image": "images/herren-short.jpg" },
+  { "id": 7, "name": "Herren Pullover", "category": "Herren", "price": 44.99, "image": "images/herren-pullover.jpg" },
+
+  { "id": 8, "name": "Damen Bluse", "category": "Damen", "price": 29.99, "image": "images/damen-bluse.webp" },
+  { "id": 9, "name": "Damen Kleid", "category": "Damen", "price": 49.99, "image": "images/damen-kleid.webp" },
+  { "id": 10, "name": "Damen Rock", "category": "Damen", "price": 34.99, "image": "images/damen-rock.jpg" },
+  { "id": 11, "name": "Damen Schuhe", "category": "Damen", "price": 59.99, "image": "images/damen-schuhe.avif" },
+  { "id": 12, "name": "Damen Tasche", "category": "Damen", "price": 69.99, "image": "images/damen-tasche.avif" },
+  { "id": 13, "name": "Damen Jacke", "category": "Damen", "price": 79.99, "image": "images/damen-jacke.jpg" },
+  { "id": 14, "name": "Damen Pullover", "category": "Damen", "price": 39.99, "image": "images/damen-pullover.avif" },
+
+  { "id": 15, "name": "E-book reader", "category": "Elektronik", "price": 49.99, "image": "images/e-book-reader.jpg" },
+  { "id": 16, "name": "Smartphone", "category": "Elektronik", "price": 599.99, "image": "images/smartphone.webp" },
+  { "id": 17, "name": "Laptop", "category": "Elektronik", "price": 899.99, "image": "images/hp-laptop.jpg" },
+  { "id": 18, "name": "Kopfhörer", "category": "Elektronik", "price": 89.99, "image": "images/kopfhörer.webp" },
+  { "id": 19, "name": "Smartwatch", "category": "Elektronik", "price": 149.99, "image": "images/smartwatch.webp" },
+  { "id": 20, "name": "Tablet", "category": "Elektronik", "price": 299.99, "image": "images/tablet.webp" },
+  { "id": 21, "name": "Bluetooth Lautsprecher", "category": "Elektronik", "price": 79.99, "image": "images/bluetooh.lautsprecher.jpeg" },
+
+  { "id": 22, "name": "Kinder Spielzeug", "category": "Kinder", "price": 24.99, "image": "images/kinder-spielzeug.jpg" },
+  { "id": 23, "name": "Kinder T-Shirt", "category": "Kinder", "price": 14.99, "image": "images/kinder-tshirt.webp" },
+  { "id": 24, "name": "Kinder Hose", "category": "Kinder", "price": 19.99, "image": "images/kinder-hose.webp" },
+  { "id": 25, "name": "Kinder Schuhe", "category": "Kinder", "price": 29.99, "image": "images/kinder-schuhe.jpeg" },
+  { "id": 26, "name": "Kinder Rucksack", "category": "Kinder", "price": 34.99, "image": "images/kinder-rucksack.webp" },
+  { "id": 27, "name": "Kinder Jacke", "category": "Kinder", "price": 39.99, "image": "images/kinder-jacke.jpg" },
+  { "id": 28, "name": "Kinder Pullover", "category": "Kinder", "price": 24.99, "image": "images/kinder-pullover.jpg" },
+
+  { "id": 29, "name": "Sportgeräte Set", "category": "Sportgeräte", "price": 99.99, "image": "images/sportgeräte-set.webp" },
+  { "id": 30, "name": "Hantelset", "category": "Sportgeräte", "price": 79.99, "image": "images/hantel set.jpg" },
+  { "id": 31, "name": "Yogamatte", "category": "Sportgeräte", "price": 29.99, "image": "images/yogamate.webp" },
+  { "id": 32, "name": "Fahrrad", "category": "Sportgeräte", "price": 199.99, "image": "images/fahrrad.jpeg" },
+  { "id": 33, "name": "Laufband", "category": "Sportgeräte", "price": 599.99, "image": "images/laufband.jpg" },
+  { "id": 34, "name": "Springseil", "category": "Sportgeräte", "price": 14.99, "image": "images/springseil.webp" }
+]
